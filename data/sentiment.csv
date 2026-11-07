@@ -19822,3 +19822,4 @@ id,requested_at,fetched_at,category,council,text,label,score_neg,score_neu,score
 10341737,2026-11-07T15:49:03+00:00,2026-11-07T15:51:47+00:00,Pothole in the road,Gloucestershire County Council,Pothole: At W3W - estimates.amuses.recover,negative,0.5373,0.4496,0.0132,-0.5241
 10341770,2026-11-07T16:01:43+00:00,2026-11-07T16:02:00+00:00,Pothole on road/cycleway,Lincolnshire County Council,On church lane at the A16 end: The road seems to have fallen away causing a big long hole to appear,negative,0.7384,0.2515,0.0101,-0.7283
 10341752,2026-11-07T15:55:19+00:00,2026-11-07T16:02:00+00:00,Pavement damage,Brent Council,Pinned: Major damage,negative,0.7196,0.2676,0.0127,-0.7069
+10341779,2026-11-07T16:05:54+00:00,2026-11-07T16:12:13+00:00,Pothole or other road damage,Brent Council,Pot hole: On the down in the middle of the road,neutral,0.0642,0.8814,0.0545,-0.0097
