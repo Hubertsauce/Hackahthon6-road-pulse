@@ -24335,3 +24335,5 @@ id,requested_at,fetched_at,category,council,text,label,score_neg,score_neu,score
 10372293,2026-11-15T11:01:48+00:00,2026-11-15T11:01:56+00:00,Pothole or other defect,Hounslow Highways,Entrance to hounslow west station: This pothole has been repaired twice before..,neutral,0.3692,0.6036,0.0271,-0.3421
 10372275,2026-11-15T10:57:56+00:00,2026-11-15T11:01:56+00:00,Pavement,London Borough of Bexley,Sofa dumped: Someone has dumped a sofa,neutral,0.4501,0.5188,0.0311,-0.4191
 10372262,2026-11-15T10:55:40+00:00,2026-11-15T11:01:56+00:00,Potholes / Highway Condition,North Northamptonshire Council,Massive pothole: Theres a massive pothole at the junction ifs hard ro miss it as well as faded markings on the roundabout,negative,0.7893,0.1892,0.0215,-0.7677
+10372313,2026-11-15T11:10:22+00:00,2026-11-15T11:12:09+00:00,Potholes / Highway Condition,North Northamptonshire Council,Pothole: Pothole,neutral,0.3217,0.5928,0.0855,-0.2363
+10372297,2026-11-15T11:02:48+00:00,2026-11-15T11:12:09+00:00,Pothole on road/cycleway,Lincolnshire County Council,As pin drop: 2 pot holes getting larger all the time,neutral,0.1592,0.7317,0.1091,-0.0501
