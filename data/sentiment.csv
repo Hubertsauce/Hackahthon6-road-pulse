@@ -28887,3 +28887,4 @@ id,requested_at,fetched_at,category,council,text,label,score_neg,score_neu,score
 10399249,2026-11-20T23:42:43+00:00,2026-11-20T23:48:50+00:00,Potholes / Highway Condition,West Northamptonshire Council,Large pothole on exit road from roundabout to A45 east: Large pothole reappeared coming off the exit,negative,0.5007,0.4846,0.0147,-0.4861
 10399261,2026-11-20T23:56:55+00:00,2026-11-20T23:59:02+00:00,Pothole on a road - More than 150mm wide and 40mm deep,Surrey County Council,Pothole: Quiet deep and getting bigger by the day. Not a big area but very deep,negative,0.5351,0.4204,0.0445,-0.4906
 10399258,2026-11-20T23:49:05+00:00,2026-11-20T23:59:02+00:00,Potholes,Norfolk County Council,Pothole: Pothole; only getting worse,negative,0.8858,0.1009,0.0134,-0.8724
+10399155,2026-11-21T00:19:38+00:00,2026-11-21T00:29:27+00:00,Pothole,Hampshire County Council,Pothole getting bigger: There is a pothole getting bigger on this road,neutral,0.0952,0.6868,0.2179,0.1227
