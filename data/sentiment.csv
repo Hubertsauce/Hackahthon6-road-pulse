@@ -33057,3 +33057,6 @@ id,requested_at,fetched_at,category,council,text,label,score_neg,score_neu,score
 10423826,2026-11-26T23:24:10+00:00,2026-11-26T23:29:31+00:00,Pothole or other road damage,Brent Council,O/s No. 6: Break/hole in cw,neutral,0.0872,0.8816,0.0312,-0.056
 10423821,2026-11-26T23:21:29+00:00,2026-11-26T23:29:31+00:00,Pothole or other road damage,Brent Council,O/s No. 68: Defects contributing to vibration,neutral,0.0875,0.8776,0.0349,-0.0526
 10423832,2026-11-26T23:34:21+00:00,2026-11-26T23:39:42+00:00,Pavements/footpaths,Islington Borough Council,"Loose coal hole that someone will stand on and hurt themselves on: Loose, when you stand on it, it comes up meaning you could roll your ankle on it or into it. It’s outside 15 Highbury Place.",negative,0.6474,0.3358,0.0168,-0.6305
+10423842,2026-11-26T23:47:27+00:00,2026-11-26T23:49:54+00:00,Pavement damage,Brent Council,J/w Willesden Ln.: Pavements,neutral,0.0375,0.9026,0.0599,0.0223
+10423838,2026-11-26T23:44:13+00:00,2026-11-26T23:49:54+00:00,Pavements/footpaths,Tameside Borough Council,"Path: Paths are very old, lots of tarmac missing and needs resurfacing especially outside most peoples drives",negative,0.7397,0.2445,0.0159,-0.7238
+10423837,2026-11-26T23:43:58+00:00,2026-11-26T23:49:54+00:00,Pavement damage,Brent Council,O/s No. 90: Pavement,neutral,0.0352,0.909,0.0557,0.0205
