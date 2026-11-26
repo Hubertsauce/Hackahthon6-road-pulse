@@ -33056,3 +33056,4 @@ id,requested_at,fetched_at,category,council,text,label,score_neg,score_neu,score
 10423811,2026-11-26T23:11:13+00:00,2026-11-26T23:19:20+00:00,Pavement damage,Brent Council,O/s No. 11: Fw defects,neutral,0.1214,0.8291,0.0495,-0.0719
 10423826,2026-11-26T23:24:10+00:00,2026-11-26T23:29:31+00:00,Pothole or other road damage,Brent Council,O/s No. 6: Break/hole in cw,neutral,0.0872,0.8816,0.0312,-0.056
 10423821,2026-11-26T23:21:29+00:00,2026-11-26T23:29:31+00:00,Pothole or other road damage,Brent Council,O/s No. 68: Defects contributing to vibration,neutral,0.0875,0.8776,0.0349,-0.0526
+10423832,2026-11-26T23:34:21+00:00,2026-11-26T23:39:42+00:00,Pavements/footpaths,Islington Borough Council,"Loose coal hole that someone will stand on and hurt themselves on: Loose, when you stand on it, it comes up meaning you could roll your ankle on it or into it. It’s outside 15 Highbury Place.",negative,0.6474,0.3358,0.0168,-0.6305
